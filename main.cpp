@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello!VisualWorld\n");
+	printf("Hello!VisualWorld\n\n");
 
 
 	printf("Hello!VisualWorld\n");
