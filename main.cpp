@@ -4,6 +4,6 @@ int main()
 {
 	printf("Hello!VisualWorld\n");
 
-	printf("Hello!VisualWorld");
+	printf("Hello!VisualWorld\n\n");
 	return 0;
 }
